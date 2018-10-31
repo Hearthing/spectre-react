@@ -7,6 +7,7 @@ export Table from './Table'
 export Icon from './Icon'
 export Label from './Label'
 export Code from './Code'
+export Chip from './Chip'
 
 // -------------------
 // GROUPED COMPONENTS
@@ -68,6 +69,15 @@ export Video from './Media/Video'
 export Accordion from './Accordion'
 export AccordionBody from './Accordion/AccordionBody'
 export AccordionHeader from './Accordion/AccordionHeader'
+
+// Modal
+export Modal from './Modal'
+export ModalBody from './Modal/ModalBody'
+export ModalContainer from './Modal/ModalContainer'
+export ModalFooter from './Modal/ModalFooter'
+export ModalHeader from './Modal/ModalHeader'
+export ModalTitle from './Modal/ModalTitle'
+export ModalOverlay from './Modal/ModalOverlay'
 
 // -------------------
 // Aliases / HOC
